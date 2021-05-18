@@ -1,5 +1,6 @@
-import Navigation from '../conponents/Navigation'
-import CHead from '../conponents/CHead'
+import Navigation from '../components/Navigation'
+import CHead from '../components/CHead'
+import CFooter from '../components/CFooter'
 
 export default function About() {
   return (
@@ -9,6 +10,7 @@ export default function About() {
       <br /><br /><br />
       <b>About me</b>
       <p>I am copying this website template from Daniel Gross.</p>
+      <CFooter />
     </div>
   )
 }

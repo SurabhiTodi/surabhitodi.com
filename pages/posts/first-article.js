@@ -1,5 +1,6 @@
-import Navigation from '../../conponents/Navigation'
-import CHead from '../../conponents/CHead'
+import Navigation from '../../components/Navigation'
+import CHead from '../../components/CHead'
+import CFooter from '../../components/CFooter'
 
 export default function Article() {
   return (
@@ -13,6 +14,7 @@ export default function Article() {
         </div>
         <div className="divider"></div>
         Start article here...
+        <CFooter />
       </main>
     </div>
   )
