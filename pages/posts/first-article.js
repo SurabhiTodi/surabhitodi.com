@@ -5,7 +5,7 @@ import CFooter from '../../components/CFooter'
 export default function Article() {
   return (
     <div className="container">
-      <CHead title="First Article"/>
+      <CHead title="How to be Convincing"/>
       <Navigation />
       <main className="article-container">
         <div className="article-meta-data">
