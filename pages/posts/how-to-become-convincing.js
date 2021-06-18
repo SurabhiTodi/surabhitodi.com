@@ -17,6 +17,7 @@ export default function Article() {
 <br/> <br/>
 
 2. Repeat- Show that you understood their narrative- you can say something like so you mean?? This is the time to really have them feel heard and UNDERSTOOD- if they don't think you understood them you won't move forward from the supposed lack of understanding. Game over. At this point if you want to make sure that you really understood what they mean not just what they are saying is by asking the same questions but framed in different ways- what do you hate most about your current job might give you a different answer than why are you quitting your current job- but these questions are similar enough to understand if there is a discrepancy in what they are saying and what they mean. 
+<br/><br/>
 After this you can do any of the following- sometimes multiple in parallel depending on the situation- do they already have a set idea that needs to be changed, is it a brand new idea, or are they started from a place of fixed mindset. 
 Reframe bad narratives- Once you have understood why they think the way they do you can challenge their assumptions, think of this like a Jenga game, you need to slide out the right pieces and slide in your own new pieces, eventually changing the entire structure or even the foundation. Start with easy to invalidate and after gaining credibility move to harder.
 <br/> <br/>
