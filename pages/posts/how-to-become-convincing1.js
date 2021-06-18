@@ -9,7 +9,7 @@ export default function Article() {
       <Navigation />
       <main className="article-container">
         <div className="article-meta-data">
-          <h3>Second Article</h3>
+          <h3>How To Become Convincing</h3>
           <span className="article-date">May 2021</span>
         </div>
         <div className="divider"></div>
