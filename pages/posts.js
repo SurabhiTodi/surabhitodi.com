@@ -10,8 +10,8 @@ export default function Posts() {
       <br /><br /><br />
       <b>Posts</b>
       <ul>
-        <li><a href="/posts/how-to-become-convincing">How To Become Convincing</a></li>
-        <li><a href="/posts/second-article">Second article</a></li>
+        <li><a href="/posts/how-to-become-convincing1">How To Become Convincing</a></li>
+      
       </ul>
       <CFooter />
     </div>
