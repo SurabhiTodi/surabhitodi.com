@@ -15,7 +15,7 @@ I'm currently interested in meme-based economics- the ultimate form of marketing
 
 I occasionally write on this website. For future updates, you can sign up for my <a href= "http://eepurl.com/g1hwXL">newsletter</a>, where I share my writing, TikTok videos, and anything interesting I've read.
 
-</p> <b> If you'd like to get in touch</b>, find me on Twitter <a href="https://twitter.com/SurbhiTodi">@SurbhiTodi</a> or email *surbhi1todi@gmail.com.* I typically respond the fastest to Twitter messages!.</p>
+<p> <b> If you'd like to get in touch</b>, find me on Twitter <a href="https://twitter.com/SurbhiTodi">@SurbhiTodi</a> or email *surbhi1todi@gmail.com.* I typically respond the fastest to Twitter messages!.</p>
       
       <p>Check out my <a href="/posts">posts</a>.</p>
     </div>
