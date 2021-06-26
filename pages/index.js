@@ -11,7 +11,7 @@ export default function Home() {
 
 I'm currently interested in meme-based economics- the ultimate form of marketing. I'm also interested in the attention economy- or how companies can profit off of people's attention.
 
-<p>Previously, I founded a social e-commerce site for pre-owned clothing called <a href= "http://clothwrks.com">Clothwrks.com</a>, working to help solve the crises of fast fashion waste we currently face. Recently I have been consulting with startups on growth and product strategy, fundraising and achieving product market fit.
+<p>Previously, I founded a social e-commerce site for pre-owned clothing called <a href= "http://clothwrks.com">Clothwrks.com</a>, working to help solve the crises of fast fashion waste we currently face. Recently I have been consulting with startups on growth and product strategy, fundraising and achieving product market fit. </p>
 
 I occasionally write on this website. For future updates, you can sign up for my <a href= "http://eepurl.com/g1hwXL">newsletter</a>, where I share my writing, TikTok videos, and anything interesting I've read.
 
